@@ -1,37 +1,38 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+![image](https://user-images.githubusercontent.com/75341307/187342975-6fed1811-35cb-4614-8340-21d43b64ede4.png)
 
-## Getting Started
+Moradores de rua sofrem preconceito constante e são auto denominados marginais ou bandidos, muitas vezes não sendo.
+Muitos possuem família com filhos, e por falta de oportunidades sofrem nas ruas.
+Moradores de rua são invisíveis aos olhos das pessoas.
 
-First, run the development server:
+Quando alguém entra nessa situação se torna muito difícil o retorno a sua vida anterior, pois encontrar trabalho sem uma residência fixa se torna um grande desafio.
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+![1861b1a87f8a777eebaf702afcb929bd-gpMedium](https://user-images.githubusercontent.com/75341307/187343056-76433156-c595-4a14-a73f-5192ffd4d013.jpg)
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+## Nossa Missão!
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+Dar visibilidade a essas pessoas, gerando oportunidades de emprego, moradia, e reconexão com a família e a sociedade.
 
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
+Para se conectar com essas pessoas se faz necessário estar presente em lugares onde elas visitam.
 
-## Learn More
+O objetivo do nosso projeto é cadastrar esses moradores no nosso sistema e deixar sua história disponível aqueles que querem ajudá-los.
 
-To learn more about Next.js, take a look at the following resources:
+Muitos deles tem habilidades e experiências em diversas áreas profissionais, tem estudo ou desejariam voltar a estudar, se desconectaram de suas famílias por diversos motivos e são taxados até mesmo como desaparecidos. 
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+No nosso sistema também será possível o cadastro de voluntários, empresas e ongs que desejam ajudar essas pessoas podendo ver esses perfis e tendo um acesso mais facilitado por saber a região onde essa pessoa se localiza atualmente seja em:
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
+- Abrigos comunitários
+- Restaurantes do governo
+- Postos de trabalho
+- Assistências sociais
+- etc
 
-## Deploy on Vercel
+Com isso queremos estreitar os laços entre essas pessoas e aqueles que querem ajudá-los seja com doações, ajuda física e psicológica ou oportunidades de emprego ou moradia.
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+Também queremos a medida que o nosso banco de dados for crescendo que seja possível a busca por pessoas que estão “desaparecidas” e reconectá-los com seus parentes. 
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
-att
+Visto que por não terem moradia fixa e nem meios de comunicação acaba sendo quase impossível encontrar quem está nessa situação.
+
+Além disso queremos que nosso sistema contenha algumas informações(noticias, pesquisas e dados) sobre esse problema social, e o link de organizações de ajuda.
+
+
+
