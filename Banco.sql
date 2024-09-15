@@ -1,4 +1,3 @@
-
 CREATE DATABASE ajuda_comunitaria;
 
 \c ajuda_comunitaria;
@@ -41,16 +40,17 @@ CREATE TABLE auxiliados (
     documento_identidade VARCHAR(50),
     telefone VARCHAR(20),
     endereco_id INT REFERENCES enderecos(id), 
-    usuario_id INT REFERENCES usuarios(id),
+    usuario_id INT REFERENCES usuarios(id), 
     criado_em TIMESTAMP DEFAULT CURRENT_TIMESTAMP
 );
+
 
 CREATE TABLE acoes_ajuda (
     id SERIAL PRIMARY KEY,
     nome VARCHAR(255) NOT NULL,
     descricao TEXT,
     data_evento DATE NOT NULL,
-    endereco_id INT REFERENCES enderecos(id),
+    endereco_id INT REFERENCES enderecos(id), 
     usuario_id INT REFERENCES usuarios(id), 
     criado_em TIMESTAMP DEFAULT CURRENT_TIMESTAMP
 );
